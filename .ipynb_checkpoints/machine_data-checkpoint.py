@@ -1,5 +1,4 @@
-# Assignment 2, Filip Drincic, LTU 2026,Industrial AI and eMaintenance - Part I: Theories & Concepts
-# The Python program use load and time-to-failure data from three manufacturers (A, B, and C) to provide statistical and distribution-based methods.
+#Assignment 2, Filip Drincic, LTU 2026,Industrial AI and eMaintenance - Part I: Theories & Concepts 
 import pandas as pd
 import matplotlib.pyplot as plt
 
